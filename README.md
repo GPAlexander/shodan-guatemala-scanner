@@ -49,7 +49,6 @@ curl -X POST http://localhost:3000/scan -H "Content-Type: application/json" -d "
 - El archivo `.env` y la carpeta `node_modules` están ignorados en el control de versiones por `.gitignore`.
 
 ---
-**Carnet:** 202100000  
-**Nombre:** Juan Pérez  
+**Carnet:** 1990-21-10104  
+**Nombre:** Nelson Guaran  
 **Curso:** Seguridad Informática  
-**Sección:** 10
